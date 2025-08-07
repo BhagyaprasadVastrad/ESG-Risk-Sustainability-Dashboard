@@ -32,7 +32,7 @@ Enabled user-friendly navigation:
 
 ## Dashboard Preview
 
-> ![Preview](assets/dashboard_screenshots/page1.png)
+> ![Preview](assets/dashboard_screenshots/)
 
 ---
 
