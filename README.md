@@ -32,7 +32,7 @@ Enabled user-friendly navigation:
 
 ## Dashboard Preview
 
-> ![Preview](assets/dashboard_screenshots/)
+> ![Preview]([assets/dashboard_screenshots/](https://github.com/BhagyaprasadVastrad/ESG-Risk-Sustainability-Dashboard/blob/main/Assets/Screenshot%202025-08-07%20022917.png))
 
 ---
 
