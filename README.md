@@ -32,7 +32,10 @@ Enabled user-friendly navigation:
 
 ## Dashboard Preview
 
-> ![Preview]([Assets/Screenshot%202025-08-07%20022917.png])
+<img width="1354" height="759" alt="Screenshot 2025-08-07 031955" src="https://github.com/user-attachments/assets/329f86e3-d739-404b-a1c2-01354cb70c4f" />
+
+
+<img width="1262" height="719" alt="Screenshot 2025-08-07 022917" src="https://github.com/user-attachments/assets/68721d27-56ba-4703-8b26-8eec3cfafce8" />
 
 ---
 
